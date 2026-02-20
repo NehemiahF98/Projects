@@ -1,0 +1,106 @@
+Please enter the name of the file people.txt
+Please choose the following: 
+1) Print the array to the screen
+2) Display all the people that contain a certain color
+3) Sort the array by color
+4) Sort the arrray by the 'natural order' 
+5) Quit
+Choice ---> 1
+
+first name: bubba
+last name: von bigbelly
+color: PURPLE
+first name: faith
+last name: hillstrom
+color: PURPLE
+first name: sally sue
+last name: sullivan
+color: GREEN
+Please choose the following: 
+1) Print the array to the screen
+2) Display all the people that contain a certain color
+3) Sort the array by color
+4) Sort the arrray by the 'natural order' 
+5) Quit
+Choice ---> 2
+
+Please enter the name of the Color: 
+blue
+Please choose the following: 
+1) Print the array to the screen
+2) Display all the people that contain a certain color
+3) Sort the array by color
+4) Sort the arrray by the 'natural order' 
+5) Quit
+Choice ---> 1
+
+first name: bubba
+last name: von bigbelly
+color: PURPLE
+first name: faith
+last name: hillstrom
+color: PURPLE
+first name: sally sue
+last name: sullivan
+color: GREEN
+Please choose the following: 
+1) Print the array to the screen
+2) Display all the people that contain a certain color
+3) Sort the array by color
+4) Sort the arrray by the 'natural order' 
+5) Quit
+Choice ---> 3
+
+Please choose the following: 
+1) Print the array to the screen
+2) Display all the people that contain a certain color
+3) Sort the array by color
+4) Sort the arrray by the 'natural order' 
+5) Quit
+Choice ---> 1
+
+first name: sally sue
+last name: sullivan
+color: GREEN
+first name: bubba
+last name: von bigbelly
+color: PURPLE
+first name: faith
+last name: hillstrom
+color: PURPLE
+Please choose the following: 
+1) Print the array to the screen
+2) Display all the people that contain a certain color
+3) Sort the array by color
+4) Sort the arrray by the 'natural order' 
+5) Quit
+Choice ---> 4
+
+Please choose the following: 
+1) Print the array to the screen
+2) Display all the people that contain a certain color
+3) Sort the array by color
+4) Sort the arrray by the 'natural order' 
+5) Quit
+Choice ---> 1
+
+first name: sally sue
+last name: sullivan
+color: GREEN
+first name: bubba
+last name: von bigbelly
+color: PURPLE
+first name: faith
+last name: hillstrom
+color: PURPLE
+Please choose the following: 
+1) Print the array to the screen
+2) Display all the people that contain a certain color
+3) Sort the array by color
+4) Sort the arrray by the 'natural order' 
+5) Quit
+Choice ---> 5
+
+
+ ----jGRASP wedge2: exit code for process is 0.
+ ----jGRASP: operation complete.
